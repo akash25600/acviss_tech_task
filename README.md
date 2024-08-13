@@ -6,6 +6,9 @@ Welcome to the Python Script Collection repository! Here you will find a series 
 
 This script defines a function that reverses a given string.
 
+![image](https://github.com/user-attachments/assets/50720f96-e020-4d1f-81f3-358c4ab25293)
+
+
 **2. 🎲 Factorial of a Number**
 
 This script includes a function that calculates the factorial of a given number.
