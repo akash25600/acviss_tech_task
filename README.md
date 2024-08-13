@@ -20,6 +20,9 @@ This script includes a function that calculates the factorial of a given number.
 
 This script sorts a list of integers in ascending order.
 
+![image](https://github.com/user-attachments/assets/4910e0f3-6bd5-4c47-8a52-a682134d406e)
+
+
 **4. 📊 Load and Clean CSV Data with Pandas**
 
 This script uses Pandas to load a CSV file, clean the data by handling missing values, and standardize formats. It also performs basic analysis such as finding the mean, median, and mode of the data.
