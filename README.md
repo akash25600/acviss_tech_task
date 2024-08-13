@@ -67,6 +67,9 @@ This script connects to a database (e.g., SQLite), inserts some data, retrieves 
 
 This script automates the task of renaming multiple files in a directory based on a specific pattern.
 
+![image](https://github.com/user-attachments/assets/48c0a778-5f21-4b00-8ebf-4bddd4848403)
+
+
 
 **📜 License**
 
