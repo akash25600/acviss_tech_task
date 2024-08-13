@@ -2,6 +2,29 @@
 
 Welcome to the Python Script Collection repository! Here you will find a series of Python scripts designed to tackle a variety of tasks. Below is an overview of each script included:
 
+**Table of Contents**
+
+1. Reverse a String
+
+2. Factorial of a Number
+
+3. Sort a List of Integers
+
+4. Load and Clean CSV Data with Pandas
+
+5. Process JSON Data
+
+6. Binary Search Algorithm
+
+7. Interact with a Public API
+
+8. Work with Databases
+
+9. work with database woith simple query
+
+10. Automate File Renaming
+
+
 **1. 🧩 Reverse a String**
 
 This script defines a function that reverses a given string.
