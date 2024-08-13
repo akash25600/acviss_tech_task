@@ -31,9 +31,13 @@ This script uses Pandas to load a CSV file, clean the data by handling missing v
 
 This script reads a JSON file and processes the data to find specific information, such as the maximum value in a list of numbers.
 
+
 **6. 🔍 Binary Search Algorithm**
 
 This script implements a binary search algorithm to find an element in a sorted list.
+
+![image](https://github.com/user-attachments/assets/0315e5ea-40ae-4a34-9a5a-ac5ab0151409)
+
 
 **7. 🌐 Interact with a Public API**
 
