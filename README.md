@@ -10,6 +10,9 @@ This script defines a function that reverses a given string.
 
 This script includes a function that calculates the factorial of a given number.
 
+![image](https://github.com/user-attachments/assets/657199a4-de31-43d8-9db7-f6f93af8389f)
+
+
 **3. 🔢 Sort a List of Integers**
 
 This script sorts a list of integers in ascending order.
