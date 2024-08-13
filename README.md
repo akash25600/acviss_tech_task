@@ -48,7 +48,10 @@ This script interacts with a public API to retrieve data (e.g., weather data) an
 
 **8. 💾 Work with Databases**
 
-This script connects to a database (e.g., SQLite).
+This script connects to a database,
+
+![image](https://github.com/user-attachments/assets/438b1165-30f0-4d83-9f2b-13d1ec8db9b9)
+
 
 **9. 💾 Work with Databases**
 
