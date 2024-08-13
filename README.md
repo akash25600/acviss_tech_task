@@ -57,6 +57,9 @@ This script connects to a database,
 
 This script connects to a database (e.g., SQLite), inserts some data, retrieves it, and performs a simple query.
 
+![image](https://github.com/user-attachments/assets/0236a43b-336c-4ee4-b281-6036859c23c4)
+
+
 **10. 🗂️ Automate File Renaming**
 
 This script automates the task of renaming multiple files in a directory based on a specific pattern.
