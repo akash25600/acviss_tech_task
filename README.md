@@ -59,6 +59,9 @@ This script connects to a database (e.g., SQLite), inserts some data, retrieves 
 
 ![image](https://github.com/user-attachments/assets/0236a43b-336c-4ee4-b281-6036859c23c4)
 
+![image](https://github.com/user-attachments/assets/595061b2-16f2-4af5-911f-76bf768d9351)
+
+
 
 **10. 🗂️ Automate File Renaming**
 
